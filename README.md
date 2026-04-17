@@ -24,9 +24,9 @@ Potentiometer
 RGB LED
 10kΩ resistor
 🔌 Connections
-LM35 → A0
-Pot → A1
-LDR → A2
+LM35 → A0;
+Pot → A1;
+LDR → A2;
 RGB → 9 (R), 10 (G), 11 (B)
 ▶️ Run
 Upload code
